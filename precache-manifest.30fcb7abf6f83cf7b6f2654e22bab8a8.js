@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "876dcedda4bb1e77f4521fce4bd1490e",
+    "revision": "6cb88491c13708710398a67975174b85",
     "url": "/n9hal/todo-in-react.git/index.html"
   },
   {
-    "revision": "b08d6cdf10c9e9ceaf1f",
+    "revision": "47927ea41a21945fd9a2",
     "url": "/n9hal/todo-in-react.git/static/css/main.0fa240fc.chunk.css"
   },
   {
-    "revision": "ae417a89f22d29706585",
-    "url": "/n9hal/todo-in-react.git/static/js/2.882f0e08.chunk.js"
+    "revision": "a64d7ecbfe47a26f7501",
+    "url": "/n9hal/todo-in-react.git/static/js/2.0542d96a.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/n9hal/todo-in-react.git/static/js/2.882f0e08.chunk.js.LICENSE.txt"
+    "url": "/n9hal/todo-in-react.git/static/js/2.0542d96a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b08d6cdf10c9e9ceaf1f",
-    "url": "/n9hal/todo-in-react.git/static/js/main.66a2fefd.chunk.js"
+    "revision": "47927ea41a21945fd9a2",
+    "url": "/n9hal/todo-in-react.git/static/js/main.72896947.chunk.js"
   },
   {
     "revision": "f2671541ecbbd7e7013f",
